@@ -1,5 +1,4 @@
-package Entity;
+package entity;
 
 public class Books {
-    
 }

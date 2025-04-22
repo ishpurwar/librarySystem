@@ -1,5 +1,4 @@
-package Entity;
-
+package entity;
 
 import java.util.Objects;
 
