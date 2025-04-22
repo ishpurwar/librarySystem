@@ -1,4 +1,4 @@
-package entity;
+package Entity;
 
 import java.util.Objects;
 
@@ -17,7 +17,7 @@ public class User {
 
     }
 
-    
+
     // Getters
     public String getName() {
         return name;

@@ -1,5 +1,6 @@
 package Service;
 
+<<<<<<< HEAD
 import java.util.ArrayList;
 
 public class Student extends User {
@@ -24,4 +25,8 @@ public class Student extends User {
             System.out.println("Book cannot be issued.");
         }
     }
+=======
+public class Student {
+    
+>>>>>>> 1cf2406f6acb05c5dc1ba770c3f193c1281336d1
 }
