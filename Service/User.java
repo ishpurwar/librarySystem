@@ -4,6 +4,16 @@ public class User {
         System.out.println(u.toString());
 
     }
-    
+    public Book searchBook(String name){
+        ArrayList<Book> book=getAllBooks();
+        for(int i=0;i<book.size();i++){
+            if(name==book.get(i).name){
+                return book.get(i);
+            }
+        }
+
+
+       
+    }
   
 }
